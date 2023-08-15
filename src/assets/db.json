@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "name": "Clean room",
+      "isCompleted": true,
+      "isEditing": false,
+      "id": 1
+    },
+    {
+      "name": "Fold clothes",
+      "isEditing": false,
+      "isCompleted": false,
+      "id": 2
+    },
+    {
+      "name": "Finish code",
+      "isCompleted": true,
+      "isEditing": false,
+      "id": 3
+    }
+  ]
+}
